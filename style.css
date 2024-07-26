@@ -4,14 +4,14 @@ header {
   flex-wrap: nowrap;
 }
 
-a{
-  color:aqua ;
+a {
+  color: blue;
 }
 
-#a-1{
-  color:brown;
+#a-1 {
+  color: brown;
 }
 
-.a{
-  color:blue;
+.a {
+  color: blue;
 }
