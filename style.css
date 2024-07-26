@@ -1,0 +1,17 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
+
+a{
+  color:aqua ;
+}
+
+#a-1{
+  color:brown;
+}
+
+.a{
+  color:blue;
+}
